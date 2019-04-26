@@ -1,3 +1,4 @@
+*.swp
 # Ignore CI build directory
 build/
 xcuserdata
@@ -70,7 +71,7 @@ googlemock/gtest
 /googlemock/gmock.sln
 /googlemock/ALL_BUILD.vcxproj.filters
 /googlemock/ALL_BUILD.vcxproj
-/lib
+#/lib
 /Win32
 /ZERO_CHECK.vcxproj.filters
 /ZERO_CHECK.vcxproj
